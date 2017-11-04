@@ -5,3 +5,10 @@
 .row{
     border: 3px solid green;
 }
+
+.box{
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+}
+
